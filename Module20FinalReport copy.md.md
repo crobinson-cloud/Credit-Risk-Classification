@@ -5,6 +5,7 @@
 1. Explain the purpose of the analysis
 
 A: The purpose of the analysis is to determine if the Logistic Regression Machine Learning Model can more accurately predict healthy vs high-risk loans, using the original dataset that s resampled to increase the size of the minority class.
+
 2.  Explain what financial information the data was on, and what you needed to predict.
 
 A: The data consisted of 77,536 loans that included columns for loan_size, interest_rate, borrower_income, debt_to_income_ratio, number_of_accounts, derogatory_marks, total_debt, and loan_status. The category we are attempting to predict with this analysis is "loan_status". The data in the remaining columns will be used as features to train the data and inform predictions. 
