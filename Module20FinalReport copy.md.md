@@ -22,6 +22,7 @@ A:  The stages of machine learning process are as follows:
 - Evaluate predictions
 
 4. Briefly touch on any methods you used (e.g., `LogisticRegression`, or any resampling method).
+5. 
 A: Primary model used in this analysis: LogisticRegression from SKLearn
 Supporting functions: train_test_split from SKLearn
 Models Evaluated using: confusion_matrix from SKLearn and classification_report from SKLearn
